@@ -1,0 +1,4 @@
+11c11
+< while [ $f -le 5000 ] # 5k blank floppy diskette's, lower for less.
+---
+> while [ $f -le 10 ] # Pack of 10 IBM formatted floppy diskette's.
